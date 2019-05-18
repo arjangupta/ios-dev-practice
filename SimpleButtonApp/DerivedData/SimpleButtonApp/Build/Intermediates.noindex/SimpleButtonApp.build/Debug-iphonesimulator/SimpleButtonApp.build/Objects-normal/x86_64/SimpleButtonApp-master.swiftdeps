@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swift-4.1.2-RELEASE)"
-options: "e2205959fb8ecd111625e81b4f0e4e48"
-build_time: [1532237043, 82326000]
-inputs:
-  "/Users/arjangupta/workspace/pers-ag/swift-diary/SimpleButtonApp/SimpleButtonApp/ViewController.swift": [1532232856, 0]
-  "/Users/arjangupta/workspace/pers-ag/swift-diary/SimpleButtonApp/SimpleButtonApp/AppDelegate.swift": [1532232856, 0]

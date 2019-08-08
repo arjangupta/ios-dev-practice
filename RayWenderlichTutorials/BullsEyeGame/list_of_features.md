@@ -14,3 +14,4 @@
 3. Put game info on screen
 4. Put slider on screen
 5. Read value of the slider
+6. Make it look pretty :)
